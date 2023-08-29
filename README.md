@@ -9,7 +9,7 @@ Key Features:<br>
 -> Utilizes Flask's template engine for dynamic content rendering.<br>
 <br>
 Installation:<br>
-1. Clone the repository: git clone "https://github.com/krishnavbs1001.github.io/YouTube-Playlist-Length-Analyzer.git"<br>
+1. Clone the repository: git clone "https://github.com/krishnavbs1001/YouTube-Playlist-Length-Analyzer.git"<br>
 2. Install project dependencies: pip install -r requirements.txt<br>
 3. Obtain a YouTube Data API key and update it in the code .<br>
 4. Run the application: python app.py (from folder path)<br>
