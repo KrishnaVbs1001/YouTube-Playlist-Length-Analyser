@@ -13,4 +13,4 @@ Installation:<br>
 2. Install project dependencies: pip install -r requirements.txt<br>
 3. Obtain a YouTube Data API key and update it in the code .<br>
 4. Run the application: python app.py (from folder path)<br>
-Explore your YouTube playlists like never before with the YouTube Playlist Analyzer. Happy analyzing 😀!
+Explore your YouTube playlists like never before with the YouTube Playlist Analyzer. <br>Happy analyzing 😀!
